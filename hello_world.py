@@ -1,3 +1,3 @@
-print("Hello, cruel world! My journey to become Mr.Robot starts here.")
+print("Hello, Github! My journey to become better at computers and code than chatgpt continues.")
 print("Second commit test — caching works!")
 
